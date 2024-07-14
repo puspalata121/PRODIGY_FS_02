@@ -4,7 +4,7 @@ The Employee Management System is a TypeScript-based web application designed fo
 
 ## Technology Stack
 
-- **Frontend**: TypeScript, React.js, SCSS
+- **Frontend**: TypeScript, React.js, CSS
 - **Backend**: Node.js, Express.js, MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 
@@ -23,13 +23,6 @@ The Employee Management System is a TypeScript-based web application designed fo
 - npm or yarn
 - MongoDB (running locally or cloud-based instance)
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
-   cd employee-management-system
 
 
 
